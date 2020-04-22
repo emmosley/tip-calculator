@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
+body {
+background-color: white;
+}
+
+.tip-calculator {
+    border: 1px solid black;
+    width: 30vw;
+    text-align: center;
+    margin: auto;
+    height: 30vh;
+    background-color: #FCF5C7;
+    border-radius: 15px;
+}
+
+.output {
+    height: 60%;
+    font-size: 1.5em;
+    padding: 10px;
+
+}
+
+button {
+    border: 1px solid navy;
+    border-radius: 10px;
+    background-color: white;
+}
+
+button:hover {
+    background-color: navy;
+    color: white;
+}
+
+.title{
+    font-family: 'Monofett';
+    font-size: 1.5em;
+}
